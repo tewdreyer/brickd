@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python -B @BRICKD_DIR@/brickd_linux.py "$@"
